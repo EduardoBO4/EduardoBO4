@@ -24,7 +24,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0A0F,50:58111A,100:C9184A&height=220&section=header&text=EDUARDO%20BORGES&fontSize=50&fontColor=F5E6D3&fontAlignY=40&animation=fadeIn" alt="Banner Eduardo Borges" width="100%"/>
 
 <!-- Cabeçalho animado (typing). TODO: edite o texto de "lines" se quiser outra mensagem -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Eduardo+Borges;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+%26+Explorador+de+IA;Entusiasta+de+Metodologias+%C3%81geis" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Eduardo+Borges;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Front-End+%26+Explorador+de+IA;Entusiasta+de+Metodologias+%C3%81geis" alt="Texto animado" />
 
 </div>
 
@@ -39,7 +39,7 @@
 ## Sobre Mim
 
 Sou estudante de Ciência da Computação e gosto de transformar ideias em software funcional.
-Meu foco principal é o **Desenvolvimento Full Stack**, com interesses crescentes em
+Meu foco principal é o **Desenvolvimento Front-End**, com interesses crescentes em
 **Inteligência Artificial**, **Bancos de Dados** e **Gestão Ágil** (práticas de
 Product Owner e Scrum Master).
 
@@ -76,7 +76,7 @@ graph TD
     EDUARDO_CS["EDUARDO_CS<br/>Ciência da Computação"]
 
     PUC_MINAS["PUC_MINAS<br/>Base Acadêmica"]
-    CORE_DEV["CORE_DEV<br/>Full Stack & Bancos de Dados"]
+    CORE_DEV["CORE_DEV<br/>Front-End & Bancos de Dados"]
     AI_EXPLORATION["AI_EXPLORATION<br/>IA & Dados"]
     AGILE_MANAGEMENT["AGILE_MANAGEMENT<br/>Scrum & Product Owner"]
 
