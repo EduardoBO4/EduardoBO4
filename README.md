@@ -40,15 +40,15 @@
 
 Sou estudante de Ciência da Computação e gosto de transformar ideias em software funcional.
 Meu foco principal é o **Desenvolvimento Front-End**, com interesses crescentes em
-**Inteligência Artificial**, **Bancos de Dados** e **Gestão Ágil** (práticas de
-Product Owner e Scrum Master).
+**Inteligência Artificial** e **Bancos de Dados**. Também estou estudando por conta
+própria os fundamentos de **Metodologias Ágeis**, de olho em uma futura atuação como
+Product Owner ou Scrum Master.
 
 - Estudando **Ciência da Computação** na **PUC Minas** (atualmente 1,5 de 4 anos)
-- Interesse em construir sistemas completos e bem estruturados, do banco de dados
-  até a interface do usuário
+- Focado em **Front-End**, com interesse crescente em entender o sistema completo,
+  do banco de dados até a interface do usuário
 - Explorando **IA** e soluções orientadas a dados
-- Aprendendo frameworks **Ágeis** e como liderar equipes técnicas como futuro
-  **Product Owner / Scrum Master**
+- Estudando os fundamentos de **Scrum** e **Product Ownership** por conta própria
 <!-- TODO: ADICIONE OU EDITE SEUS PRÓPRIOS TÓPICOS ACIMA -->
 
 ### Meu Caminho: Diagrama Conceitual
@@ -108,22 +108,6 @@ graph TD
 
 ## Habilidades e Tecnologias
 
-### Ferramentas de Produto e Metodologias Ágeis
-
-<!-- TODO: REMOVA QUALQUER BADGE DE FERRAMENTA QUE VOCÊ NÃO USE, OU ADICIONE NOVAS -->
-![Scrum](https://img.shields.io/badge/Scrum-3B0A0F?style=for-the-badge&logo=scrumalliance&logoColor=F5E6D3&labelColor=3B0A0F)
-![Jira](https://img.shields.io/badge/Jira-3B0A0F?style=for-the-badge&logo=jira&logoColor=F5E6D3&labelColor=3B0A0F)
-![Trello](https://img.shields.io/badge/Kanban%20(Trello)-3B0A0F?style=for-the-badge&logo=trello&logoColor=F5E6D3&labelColor=3B0A0F)
-![Miro](https://img.shields.io/badge/Diagramas%20(Miro)-3B0A0F?style=for-the-badge&logo=miro&logoColor=F5E6D3&labelColor=3B0A0F)
-![Notion](https://img.shields.io/badge/Notion-3B0A0F?style=for-the-badge&logo=notion&logoColor=F5E6D3&labelColor=3B0A0F)
-
-### Desenvolvimento Back-end
-
-<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
-![Node.js](https://img.shields.io/badge/Node.js-C9184A?style=for-the-badge&logo=node.js&logoColor=F5E6D3&labelColor=3B0A0F)
-![Java](https://img.shields.io/badge/Java-C9184A?style=for-the-badge&logo=openjdk&logoColor=F5E6D3&labelColor=3B0A0F)
-![Spring](https://img.shields.io/badge/Spring-C9184A?style=for-the-badge&logo=spring&logoColor=F5E6D3&labelColor=3B0A0F)
-
 ### Desenvolvimento Front-end
 
 <!-- TODO: AJUSTE PARA A SUA STACK REAL -->
@@ -131,20 +115,67 @@ graph TD
 ![Next.js](https://img.shields.io/badge/Next.js-E63946?style=for-the-badge&logo=next.js&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E63946?style=for-the-badge&logo=bootstrap&logoColor=F5E6D3&labelColor=3B0A0F)
 
+### Back-end e Bancos de Dados
+
+<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
+![Node.js](https://img.shields.io/badge/Node.js-C9184A?style=for-the-badge&logo=node.js&logoColor=F5E6D3&labelColor=3B0A0F)
+![MySQL](https://img.shields.io/badge/MySQL-C9184A?style=for-the-badge&logo=mysql&logoColor=F5E6D3&labelColor=3B0A0F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C9184A?style=for-the-badge&logo=postgresql&logoColor=F5E6D3&labelColor=3B0A0F)
+
 ### Inteligência Artificial e Dados
 
 <!-- TODO: AJUSTE PARA A SUA STACK REAL -->
 ![Python](https://img.shields.io/badge/Python-4A0E17?style=for-the-badge&logo=python&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Pandas](https://img.shields.io/badge/Pandas-4A0E17?style=for-the-badge&logo=pandas&logoColor=F5E6D3&labelColor=3B0A0F)
 
-
-### Bancos de Dados e DevOps
+### Versionamento
 
 <!-- TODO: AJUSTE PARA A SUA STACK REAL -->
-![MySQL](https://img.shields.io/badge/MySQL-58111A?style=for-the-badge&logo=mysql&logoColor=F5E6D3&labelColor=3B0A0F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58111A?style=for-the-badge&logo=postgresql&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Git](https://img.shields.io/badge/Git-58111A?style=for-the-badge&logo=git&logoColor=F5E6D3&labelColor=3B0A0F)
-![Azure](https://img.shields.io/badge/Azure-58111A?style=for-the-badge&logo=microsoftazure&logoColor=F5E6D3&labelColor=3B0A0F)
+![GitHub](https://img.shields.io/badge/GitHub-58111A?style=for-the-badge&logo=github&logoColor=F5E6D3&labelColor=3B0A0F)
+
+### Estudando: Metodologias Ágeis
+
+<!-- Estas ferramentas são estudo autodidata, não experiência profissional -->
+<!-- TODO: REMOVA QUALQUER BADGE DE FERRAMENTA QUE VOCÊ NÃO USE, OU ADICIONE NOVAS -->
+![Scrum](https://img.shields.io/badge/Scrum-3B0A0F?style=for-the-badge&logo=scrumalliance&logoColor=F5E6D3&labelColor=3B0A0F)
+![Trello](https://img.shields.io/badge/Kanban%20(Trello)-3B0A0F?style=for-the-badge&logo=trello&logoColor=F5E6D3&labelColor=3B0A0F)
+![Notion](https://img.shields.io/badge/Notion-3B0A0F?style=for-the-badge&logo=notion&logoColor=F5E6D3&labelColor=3B0A0F)
+
+<br/>
+
+<!--
+  =========================================================
+  SEÇÃO 2.5 - PROJETOS EM DESTAQUE
+  =========================================================
+  Esta seção é a mais importante do perfil: mostra o que você
+  realmente construiu, em vez de só listar tecnologias.
+  Cada card puxa dados reais do repositório (estrelas, linguagem
+  principal) direto do GitHub, então é só trocar username/repo.
+-->
+
+## Projetos em Destaque
+
+<div align="center">
+
+<!-- TODO: TROQUE "EduardoBO4" e "nome-do-repositorio" PELOS SEUS PROJETOS REAIS -->
+<!-- Adicione quantos cards quiser, um por projeto. Se ainda não
+     tiver projetos publicados, comece com o que já fez pra
+     faculdade, mesmo que pequeno — vale mais que badge sem uso. -->
+<a href="https://github.com/EduardoBO4/nome-do-repositorio">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EduardoBO4&repo=nome-do-repositorio&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Projeto em destaque"/>
+</a>
+
+<a href="https://github.com/EduardoBO4/outro-repositorio">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EduardoBO4&repo=outro-repositorio&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Projeto em destaque"/>
+</a>
+
+</div>
+
+<!-- TODO: PARA CADA PROJETO ACIMA, ADICIONE 1-2 FRASES CURTAS
+     EXPLICANDO O QUE ELE FAZ E O QUE VOCÊ APRENDEU CONSTRUINDO -->
+- **[nome-do-repositorio](https://github.com/EduardoBO4/nome-do-repositorio):** descreva em 1 frase o que o projeto faz e por que você o construiu.
+- **[outro-repositorio](https://github.com/EduardoBO4/outro-repositorio):** descreva em 1 frase o que o projeto faz e por que você o construiu.
 
 <br/>
 
