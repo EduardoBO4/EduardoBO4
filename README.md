@@ -26,8 +26,6 @@
 <!-- Cabeçalho animado (typing). TODO: edite o texto de "lines" se quiser outra mensagem -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Eduardo+Borges;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+%26+Explorador+de+IA;Entusiasta+de+Metodologias+%C3%81geis" alt="Texto animado" />
 
-<!-- TODO: PERSONALIZE O NOME AQUI SE FOR DIFERENTE -->
-# Olá, sou o Eduardo Borges
 
 **Estudante de Ciência da Computação | Full Stack & Explorador de IA | Entusiasta de Metodologias Ágeis**
 
