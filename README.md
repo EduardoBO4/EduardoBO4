@@ -167,17 +167,21 @@ graph TD
 
 <div align="center">
 
+<!-- Trocado de "github-readme-stats.vercel.app" para "github-stats-extended.vercel.app":
+     é o sucessor oficial do mesmo projeto, mantido ativamente e com
+     instância pública mais estável (menos sobrecarga/erro). A sintaxe
+     dos parâmetros é idêntica, só o domínio muda. -->
 <!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoBO4&show_icons=true&hide_border=true&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Estatísticas do GitHub do Eduardo" />
+<img src="https://github-stats-extended.vercel.app/api?username=EduardoBO4&show_icons=true&hide_border=true&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Estatísticas do GitHub do Eduardo" />
 
 <!-- Sequência de contribuições: representa a constância com que as raízes
      absorveram "nutrientes" (contribuições diárias) -->
 <!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoBO4&background=3B0A0F&stroke=58111A&ring=E63946&fire=C9184A&currStreakLabel=F5E6D3&sideNums=F5E6D3&currStreakNum=FFFDD0&sideLabels=F5E6D3&dates=F5E6D3&border=58111A" alt="Sequência de contribuições do Eduardo" />
 
-<!-- Card de linguagens mais usadas, mesma paleta -->
+<!-- Card de linguagens mais usadas, mesma paleta, mesmo domínio mais estável -->
 <!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBO4&layout=compact&hide_border=true&bg_color=3B0A0F&title_color=E63946&text_color=F5E6D3&border_color=58111A" alt="Linguagens mais usadas" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoBO4&layout=compact&hide_border=true&bg_color=3B0A0F&title_color=E63946&text_color=F5E6D3&border_color=58111A" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -198,22 +202,18 @@ graph TD
 
 <div align="center">
 
-<!-- TODO: TROQUE O LINK ABAIXO PELO SEU PERFIL REAL DO LINKEDIN -->
 <a href="https://www.linkedin.com/in/eduardo-borges-de-souza-9624b2339?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-58111A?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3B0A0F" alt="LinkedIn"/>
 </a>
 
-<!-- TODO: TROQUE PELO SEU E-MAIL REAL -->
-<a href="eduardoborgesdesouza4@gmail.com">
+<a href="mailto:eduardoborgesdesouza4@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-58111A?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3B0A0F" alt="E-mail"/>
 </a>
 
-<!-- TODO: TROQUE O LINK ABAIXO PELO SEU PERFIL REAL DO INSTAGRAM -->
 <a href="https://www.instagram.com/eduh_bs?igsi=cDVpZTM4NXZudGls">
 <img src="https://img.shields.io/badge/Instagram-58111A?style=for-the-badge&logo=instagram&logoColor=F5E6D3&labelColor=3B0A0F" alt="Instagram"/>
 </a>
 
-<!-- TODO: TROQUE O LINK ABAIXO PELO SEU PERFIL REAL DO X (TWITTER) -->
 <a href="https://x.com/EduhSisla">
 <img src="https://img.shields.io/badge/X%20(Twitter)-58111A?style=for-the-badge&logo=x&logoColor=F5E6D3&labelColor=3B0A0F" alt="X (Twitter)"/>
 </a>
