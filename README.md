@@ -198,7 +198,7 @@ graph TD
 <div align="center">
 
 <a href="https://www.linkedin.com/in/eduardo-borges-de-souza-9624b2339?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-58111A?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3B0A0F" alt="LinkedIn"/>
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-58111A?style=for-the-badge&logo=linkedin-white&logoColor=F5E6D3&labelColor=3B0A0F" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:eduardoborgesdesouza4@gmail.com">
