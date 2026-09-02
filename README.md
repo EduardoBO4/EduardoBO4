@@ -98,118 +98,99 @@ graph TD
 
 <!--
   =========================================================
-  SEÇÃO 2 - HABILIDADES E TECNOLOGIAS
+  SEÇÃO 2 - PROJETOS E EXPERIÊNCIAS
   =========================================================
-  Paleta das badges:
-    labelColor (lado esquerdo) = 3B0A0F (vinho profundo)
-    color (lado direito)       = C9184A (carmim)
-    logoColor (ícone/texto)    = F5E6D3 (creme)
+  Cada card = uma foto + uma descrição curta e pessoal + tags.
+  As tags substituem os badges de "Habilidades e Tecnologias"
+  que existiam antes: em vez de listar tecnologia solta, elas
+  aparecem coladas no projeto/experiência onde você usou aquilo
+  de verdade — o que é bem mais forte pra quem for ler.
+
+  O GitHub remove estilo CSS customizado de HTML solto no README,
+  então não dá pra pintar o fundo do card na cor do perfil
+  diretamente. Por isso as tags (que são imagens geradas pelo
+  shields.io) carregam a paleta vinho/carmim/creme — é o jeito
+  que garante que a cor aparece de verdade.
+
+  COMO ADICIONAR UM NOVO CARD:
+  Copie um bloco <table>...</table> inteiro (de um TODO a outro)
+  e cole logo abaixo, ajustando foto, título, descrição e tags.
 -->
 
-## Habilidades e Tecnologias
+## Projetos e Experiências
 
-### Desenvolvimento Front-end
+<!-- TODO: CARD 1 — exemplo de experiência (monitoria). Ajuste ou apague. -->
+<table>
+<tr>
+<td width="160" valign="top">
+<img src="URL_DA_SUA_FOTO_AQUI" width="140" alt="Foto da experiência"/>
+</td>
+<td valign="top">
 
-<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
+**Monitoria de Algoritmos e Estrutura de Dados**
+
+<!-- TODO: ajuste a descrição pro seu jeito de contar essa experiência -->
+Ajudei colegas de turma a destravar em Algoritmos e Estrutura de Dados,
+tirando dúvida, revendo exercício e tentando deixar a matéria menos
+assustadora do que ela parece no começo. Foi ali que percebi que gosto
+tanto de resolver problema quanto de explicar como cheguei na solução.
+
+![Algoritmos e Estrutura de Dados](https://img.shields.io/badge/Algoritmos%20e%20Estrutura%20de%20Dados-C9184A?style=for-the-badge&labelColor=3B0A0F)
+![Aulas](https://img.shields.io/badge/Aulas-C9184A?style=for-the-badge&labelColor=3B0A0F)
+![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-C9184A?style=for-the-badge&labelColor=3B0A0F)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- TODO: CARD 2 — modelo em branco pra você preencher com um projeto real -->
+<table>
+<tr>
+<td width="160" valign="top">
+<img src="URL_DA_SUA_FOTO_AQUI" width="140" alt="Foto ou print do projeto"/>
+</td>
+<td valign="top">
+
+**Nome do Projeto**
+
+<!-- TODO: descreva o que o projeto faz e por que você o construiu, num tom seu -->
+Descreva aqui o que é o projeto, o problema que ele resolve e o que você
+aprendeu construindo.
+
+<!-- TODO: troque as tags abaixo pelas tecnologias/habilidades reais do projeto -->
+![Tag](https://img.shields.io/badge/Tag-C9184A?style=for-the-badge&labelColor=3B0A0F)
+![Tag](https://img.shields.io/badge/Tag-C9184A?style=for-the-badge&labelColor=3B0A0F)
+
+</td>
+</tr>
+</table>
+
+<!--
+  =========================================================
+  BANCO DE TAGS (antigos badges de "Habilidades e Tecnologias")
+  =========================================================
+  Guardado aqui só como referência: copie a linha da tecnologia
+  que quiser usar num card acima e cole dentro da célula certa.
+  Nada aqui aparece no perfil até você mover pra um card.
+
 ![React](https://img.shields.io/badge/React-E63946?style=for-the-badge&logo=react&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Next.js](https://img.shields.io/badge/Next.js-E63946?style=for-the-badge&logo=next.js&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E63946?style=for-the-badge&logo=bootstrap&logoColor=F5E6D3&labelColor=3B0A0F)
-
-### Back-end e Bancos de Dados
-
-<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
 ![Node.js](https://img.shields.io/badge/Node.js-C9184A?style=for-the-badge&logo=node.js&logoColor=F5E6D3&labelColor=3B0A0F)
 ![MySQL](https://img.shields.io/badge/MySQL-C9184A?style=for-the-badge&logo=mysql&logoColor=F5E6D3&labelColor=3B0A0F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C9184A?style=for-the-badge&logo=postgresql&logoColor=F5E6D3&labelColor=3B0A0F)
-
-### Inteligência Artificial e Dados
-
-<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
 ![Python](https://img.shields.io/badge/Python-4A0E17?style=for-the-badge&logo=python&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Pandas](https://img.shields.io/badge/Pandas-4A0E17?style=for-the-badge&logo=pandas&logoColor=F5E6D3&labelColor=3B0A0F)
-
-### Versionamento
-
-<!-- TODO: AJUSTE PARA A SUA STACK REAL -->
 ![Git](https://img.shields.io/badge/Git-58111A?style=for-the-badge&logo=git&logoColor=F5E6D3&labelColor=3B0A0F)
 ![GitHub](https://img.shields.io/badge/GitHub-58111A?style=for-the-badge&logo=github&logoColor=F5E6D3&labelColor=3B0A0F)
-
-### Estudando: Metodologias Ágeis
-
-<!-- Estas ferramentas são estudo autodidata, não experiência profissional -->
-<!-- TODO: REMOVA QUALQUER BADGE DE FERRAMENTA QUE VOCÊ NÃO USE, OU ADICIONE NOVAS -->
 ![Scrum](https://img.shields.io/badge/Scrum-3B0A0F?style=for-the-badge&logo=scrumalliance&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Trello](https://img.shields.io/badge/Kanban%20(Trello)-3B0A0F?style=for-the-badge&logo=trello&logoColor=F5E6D3&labelColor=3B0A0F)
 ![Notion](https://img.shields.io/badge/Notion-3B0A0F?style=for-the-badge&logo=notion&logoColor=F5E6D3&labelColor=3B0A0F)
-
-<br/>
-
-<!--
-  =========================================================
-  SEÇÃO 2.5 - PROJETOS EM DESTAQUE
-  =========================================================
-  Esta seção é a mais importante do perfil: mostra o que você
-  realmente construiu, em vez de só listar tecnologias.
-  Cada card puxa dados reais do repositório (estrelas, linguagem
-  principal) direto do GitHub, então é só trocar username/repo.
 -->
 
-## Projetos em Destaque
-
-<div align="center">
-
-<!-- TODO: TROQUE "EduardoBO4" e "nome-do-repositorio" PELOS SEUS PROJETOS REAIS -->
-<!-- Adicione quantos cards quiser, um por projeto. Se ainda não
-     tiver projetos publicados, comece com o que já fez pra
-     faculdade, mesmo que pequeno — vale mais que badge sem uso. -->
-<a href="https://github.com/EduardoBO4/nome-do-repositorio">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=EduardoBO4&repo=nome-do-repositorio&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Projeto em destaque"/>
-</a>
-
-<a href="https://github.com/EduardoBO4/outro-repositorio">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=EduardoBO4&repo=outro-repositorio&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Projeto em destaque"/>
-</a>
-
-</div>
-
-<!-- TODO: PARA CADA PROJETO ACIMA, ADICIONE 1-2 FRASES CURTAS
-     EXPLICANDO O QUE ELE FAZ E O QUE VOCÊ APRENDEU CONSTRUINDO -->
-- **[nome-do-repositorio](https://github.com/EduardoBO4/nome-do-repositorio):** descreva em 1 frase o que o projeto faz e por que você o construiu.
-- **[outro-repositorio](https://github.com/EduardoBO4/outro-repositorio):** descreva em 1 frase o que o projeto faz e por que você o construiu.
-
 <br/>
-
-<!--
-  =========================================================
-  SEÇÃO 3 - ESTATÍSTICAS DO GITHUB (O "SOLO" DA PLANTA)
-  =========================================================
-  Metáfora: o gráfico de contribuições abaixo é o solo nutrido.
-  As raízes do Lírio Aranha Vermelho alcançam esse solo todos os
-  dias, absorvendo energia (commits, sequências, atividade) para
-  manter a flor no topo da página florescendo.
--->
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<!-- Trocado de "github-readme-stats.vercel.app" para "github-stats-extended.vercel.app":
-     é o sucessor oficial do mesmo projeto, mantido ativamente e com
-     instância pública mais estável (menos sobrecarga/erro). A sintaxe
-     dos parâmetros é idêntica, só o domínio muda. -->
-<!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
-<img src="https://github-stats-extended.vercel.app/api?username=EduardoBO4&show_icons=true&hide_border=true&bg_color=3B0A0F&title_color=E63946&icon_color=C9184A&text_color=F5E6D3&border_color=58111A" alt="Estatísticas do GitHub do Eduardo" />
-
-<!-- Sequência de contribuições: representa a constância com que as raízes
-     absorveram "nutrientes" (contribuições diárias) -->
-<!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoBO4&background=3B0A0F&stroke=58111A&ring=E63946&fire=C9184A&currStreakLabel=F5E6D3&sideNums=F5E6D3&currStreakNum=FFFDD0&sideLabels=F5E6D3&dates=F5E6D3&border=58111A" alt="Sequência de contribuições do Eduardo" />
-
-<!-- Card de linguagens mais usadas, mesma paleta, mesmo domínio mais estável -->
-<!-- TODO: TROQUE "EduardoBO4" ABAIXO CASO SEU USUÁRIO DO GITHUB MUDE -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduardoBO4&layout=compact&hide_border=true&bg_color=3B0A0F&title_color=E63946&text_color=F5E6D3&border_color=58111A" alt="Linguagens mais usadas" />
-
-</div>
 
 <!-- Linha divisória gerada pelo capsule-render (sempre carrega) -->
 <div align="center">
