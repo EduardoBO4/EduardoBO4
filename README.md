@@ -145,7 +145,7 @@ tanto de resolver problema quanto de explicar como cheguei na solução.
 
 <br/>
 
-<!-- TODO: CARD 2 — modelo em branco pra você preencher com um projeto real -->
+<!-- CARD 2 — Site Web: Resolve Aqui -->
 <table>
 <tr>
 <td width="160" valign="top">
@@ -153,15 +153,19 @@ tanto de resolver problema quanto de explicar como cheguei na solução.
 </td>
 <td valign="top">
 
-**Nome do Projeto**
+**Site Web: Resolve Aqui**
 
-<!-- TODO: descreva o que o projeto faz e por que você o construiu, num tom seu -->
-Descreva aqui o que é o projeto, o problema que ele resolve e o que você
-aprendeu construindo.
+O objetivo do sistema é criar um ambiente digital de social-commerce para
+serviços, promovendo a visibilidade de profissionais autônomos, facilitando
+a tomada de decisão dos clientes através de portfólios e garantindo
+segurança nas transações por meio de um sistema de pagamento intermediado.
 
-<!-- TODO: troque as tags abaixo pelas tecnologias/habilidades reais do projeto -->
-![Tag](https://img.shields.io/badge/Tag-C9184A?style=for-the-badge&labelColor=3B0A0F)
-![Tag](https://img.shields.io/badge/Tag-C9184A?style=for-the-badge&labelColor=3B0A0F)
+![Java](https://img.shields.io/badge/Java-C9184A?style=for-the-badge&logo=openjdk&logoColor=F5E6D3&labelColor=3B0A0F)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9184A?style=for-the-badge&logo=javascript&logoColor=F5E6D3&labelColor=3B0A0F)
+![HTML](https://img.shields.io/badge/HTML-C9184A?style=for-the-badge&logo=html5&logoColor=F5E6D3&labelColor=3B0A0F)
+![CSS](https://img.shields.io/badge/CSS-C9184A?style=for-the-badge&logo=css3&logoColor=F5E6D3&labelColor=3B0A0F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C9184A?style=for-the-badge&logo=postgresql&logoColor=F5E6D3&labelColor=3B0A0F)
+![Scrum](https://img.shields.io/badge/Metodologia%20Scrum-C9184A?style=for-the-badge&logo=scrumalliance&logoColor=F5E6D3&labelColor=3B0A0F)
 
 </td>
 </tr>
