@@ -48,7 +48,7 @@ Product Owner ou Scrum Master.
 - Focado em **Front-End**, com interesse crescente em entender o sistema completo,
   do banco de dados até a interface do usuário
 - Explorando **IA** e soluções orientadas a dados
-- Estudando os fundamentos de **Scrum** e **Product Ownership** por conta própria
+- Estudando os fundamentos de **Scrum** e **Product Owner** por conta própria
 <!-- TODO: ADICIONE OU EDITE SEUS PRÓPRIOS TÓPICOS ACIMA -->
 
 ### Meu Caminho: Diagrama Conceitual
@@ -123,7 +123,7 @@ graph TD
 <table>
 <tr>
 <td width="160" valign="top">
-<img src="URL_DA_SUA_FOTO_AQUI" width="140" alt="Foto da experiência"/>
+<img src="monitor.jpeg" width="140" alt="Foto da experiência"/>
 </td>
 <td valign="top">
 
@@ -149,7 +149,7 @@ tanto de resolver problema quanto de explicar como cheguei na solução.
 <table>
 <tr>
 <td width="160" valign="top">
-<img src="URL_DA_SUA_FOTO_AQUI" width="140" alt="Foto ou print do projeto"/>
+<img src="resolve_aqui_ti2.jpeg" width="140" alt="Foto ou print do projeto"/>
 </td>
 <td valign="top">
 
